@@ -1,0 +1,12 @@
+#Sat Dec 21 09:32:14 CST 2013
+eclipse.preferences.version=1
+environment/project/com.xmos.cdt.toolchain.370244971/XMOS_MODULE_PATH/delimiter=;
+environment/project/com.xmos.cdt.toolchain.370244971/XMOS_MODULE_PATH/operation=append
+environment/project/com.xmos.cdt.toolchain.370244971/XMOS_MODULE_PATH/value=C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_glowing_leds;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_spinning_bar;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_spinning_dot;C\:\\Users\\ShannonS\\.xmos\\repos\\sc_capacitive_sensing\\module_capacitive_sensing;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\module_startkit_gpio
+environment/project/com.xmos.cdt.toolchain.370244971/append=true
+environment/project/com.xmos.cdt.toolchain.370244971/appendContributed=true
+environment/project/com.xmos.cdt.toolchain.65079380/XMOS_MODULE_PATH/delimiter=;
+environment/project/com.xmos.cdt.toolchain.65079380/XMOS_MODULE_PATH/operation=append
+environment/project/com.xmos.cdt.toolchain.65079380/XMOS_MODULE_PATH/value=C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_glowing_leds;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_spinning_bar;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\app_spinning_dot;C\:\\Users\\ShannonS\\.xmos\\repos\\sc_capacitive_sensing\\module_capacitive_sensing;C\:\\Users\\ShannonS\\.xmos\\repos\\sw_startkit_examples\\module_startkit_gpio
+environment/project/com.xmos.cdt.toolchain.65079380/append=true
+environment/project/com.xmos.cdt.toolchain.65079380/appendContributed=true
