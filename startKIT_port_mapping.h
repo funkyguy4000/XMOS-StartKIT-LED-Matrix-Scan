@@ -77,8 +77,8 @@ out port    DAC_DATA0      =   XS1_PORT_1G;     //I2S DAC DATA Channel 0
     port    MCLK           =   XS1_PORT_1E;     //I2S Master Clock
     port    LRCLK          =   XS1_PORT_1I;     //I2S LR Clock
 out port    SPDIF_OUT      =   XS1_PORT_1M;     //SPDIF transmit
-    port    ADC_DATA0      =   XS1_PORT_1K;     //I2S ADC DATA Channel 0
-out port    ADC_DATA1      =   XS1_PORT_1L;     //I2S ADC DATA Channel 1
+in  port    ADC_DATA0      =   XS1_PORT_1K;     //I2S ADC DATA Channel 0
+in  port    ADC_DATA1      =   XS1_PORT_1L;     //I2S ADC DATA Channel 1
 in  port    MIDI_IN        =   XS1_PORT_1J;     //From MIDI Connector
 out port    MCRL           =   XS1_PORT_4C;     //MCLK Function Select Port                 4C1
                                                 //Codec Reset                               4C2
