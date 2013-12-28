@@ -68,14 +68,16 @@
 
 //////////////////////////////////////
 //startKIT PCIe port mappings for Audio Slice
+//There is a discontinuity between the Hardware Manual and the Schematic
+//Deriving from Schematic
 
 /*
     port    BCLK           =   XS1_PORT_1F;     //I2S Bit Clock
 out port    DAC_DATA0      =   XS1_PORT_1G;     //I2S DAC DATA Channel 0
     port    MCLK           =   XS1_PORT_1E;     //I2S Master Clock
-    port    LRCLK          =   XS1_PORT_1H;     //I2S LR Clock
-out port    SPDIF_OUT      =   XS1_PORT_1K;     //SPDIF transmit
-    port    UART_RX        =   XS1_PORT_1I;     //I2S ADC DATA Channel 0
+    port    LRCLK          =   XS1_PORT_1I;     //I2S LR Clock
+out port    SPDIF_OUT      =   XS1_PORT_1M;     //SPDIF transmit
+    port    UART_RX        =   XS1_PORT_1K;     //I2S ADC DATA Channel 0
 out port    I2C_SCL        =   XS1_PORT_1L;     //I2S ADC DATA Channel 1
 in  port    MIDI_IN        =   XS1_PORT_1J;     //From MIDI Connector
 out port    MCRL           =   XS1_PORT_4C;     //MCLK Function Select Port                 4C1
@@ -83,7 +85,7 @@ out port    MCRL           =   XS1_PORT_4C;     //MCLK Function Select Port     
                                                 //User LED output                           4C3
     port    SCL_SDA        =   XS1_PORT_4D;     //I2C clock for codec configuration         4D0
                                                 //I2C data for codec configuration          4D1
-out port    DAC_DATA1      =   XS1_PORT_1M;     //I2S DAC DATA Channel 1
+out port    DAC_DATA1      =   XS1_PORT_1H;     //I2S DAC DATA Channel 1
     port    PLL_SYNC       =   XS1_PORT_1P;     //PLL
 out port    MIDI_OUT       =   XS1_PORT_4E;     //To MIDI connector                         4E3
 */
