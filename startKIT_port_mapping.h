@@ -2,7 +2,7 @@
  *      startKIT port mapping.h
  *
  *      Created on: Dec 27, 2013
- *      Author: ShannonS
+ *      Author: Shannon C. Strutz
  *      Website: www.shannonstrutz.com
  *      E-mail: strutz.shannon@gmail.com
  *
