@@ -1,9 +1,9 @@
 XMOS-StartKIT-Programs
 ======================
 
-Just a simple repo to hold all of the basic programs for the  XMOS startKIT.  Unfortunately I did not have time to work with this too much so I have not been able to revisit this to add more projects.  Much of my development has moved to ARM as it is more industry standard than XMOS controllers.
+This was merged into the main branch of XMOS start kit examples here: https://github.com/xcore/sw_startkit_examples/tree/master/app_scanning_leds/src
 
-If there are any issues with this content, please let me kno!
+If there are any issues with this content, please let me know.
 
 + Author: Shannon Strutz
 + Website: www.shannonstrutz.com
